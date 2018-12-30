@@ -1,0 +1,14 @@
+{
+  "name": "mqtt_subscrib",
+  "version": "1.0.0",
+  "description": "Mosca test subscriber",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chad conway",
+  "license": "MIT",
+  "dependencies": {
+    "mqtt": "^2.18.8"
+  }
+}
